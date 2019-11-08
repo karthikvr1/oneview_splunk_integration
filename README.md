@@ -20,7 +20,7 @@ Packages:
 	pip3 (to install the following modules (including HPE oneview python module)
 		amqplib==1.0.2
 		future==0.16.0
-		requests==2.10.0
+		requests==2.20.0
 		setuptools==39.0.1
 		six==1.11.0
 		hponeview==4.7.0 (https://github.com/HewlettPackard/python-hpOneView)
