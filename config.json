@@ -1,6 +1,6 @@
 {
 	"oneview_config": {
-		"host": "10.188.229.200",
+		"host": "XX.XX.XX.xx",
 		"alias": "HPE-oneview",
 		"user": "Administrator",
 		"authLoginDomain": "LOCAL",
@@ -9,6 +9,6 @@
 		"alert_type": "Critical:Warning:Ok",
 		"alert_hardware_category": "server-hardware:enclosures:interconnects:logical-interconnects:sas-interconnects"
 	},
-	"logging_level": "DEBUG"
+	"logging_level": "INFO"
 }
 
